@@ -1,0 +1,17 @@
+{
+  "repo": "parity-algo-geometry-stack",
+  "thresholds": {
+    "signal": 2,
+    "slack": 1,
+    "confidence": 2,
+    "drag": 3,
+    "ship": 175,
+    "watch": 95
+  },
+  "terms": [
+    "input width",
+    "search depth",
+    "boundary pressure",
+    "complexity"
+  ]
+}
